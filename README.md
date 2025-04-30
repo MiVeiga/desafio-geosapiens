@@ -39,6 +39,8 @@ O cenário simula um sistema interno utilizado por uma equipe para analisar dado
 
 ## Próximos Passos & Evoluções
 
+### Para o done da parte de listagem: 
+
 - **Tabela Inteligente:**  
   Evoluir o componente de tabela para suportar diferentes formatações de células (ex: valores monetários, datas, booleanos), tornando-o ainda mais reutilizável para múltiplas telas e contextos do sistema.
 
@@ -46,7 +48,7 @@ O cenário simula um sistema interno utilizado por uma equipe para analisar dado
   Implementar uma camada de tipagem mais robusta, eliminando o uso de `any` e garantindo maior segurança e previsibilidade no desenvolvimento.
 
 - **Componentização Avançada e SOLID:**  
-  Refatorar e isolar ainda mais os componentes, facilitando a manutenção e a extensão do sistema para novos módulos.Ex: o componente filtro ficou muito poluido, poderiamos isolar algumas funções no utils por exemplo.
+  Refatorar e isolar ainda mais os componentes, facilitando a manutenção e a extensão do sistema para novos módulos.Ex: o componente filtro ficou muito poluido, poderiamos isolar algumas funções no utils por exemplo. 
 
 - **Ver a possibilidade do uso de filtros da própria tabela do MUI**  
  Como os filtros são com operadores bem como no frontend, fazer o uso do DataGrid do MUI pode trazer mais facilidade e um código menos verboso.
@@ -59,5 +61,13 @@ O cenário simula um sistema interno utilizado por uma equipe para analisar dado
 
 - **Estilo:**  
   Melhorar parte de estilo, css no geral para melhorar experiência.
+
+- **Definições de padrões:**  
+  Nomes de váriaveis e funções, conventional commits, lint, prettier,  definição e documentação da stack já mencionando libs como axios, mui por exemplo para evitar libs que fazem a mesma coisa no projeto;
+  
+### Para próxima feature:
+
+- **Garantir a próxima feature de cadastro:**  
+  Quebrar as tasks, e desenvolver;
 
 ---
