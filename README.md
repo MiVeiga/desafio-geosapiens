@@ -47,7 +47,7 @@ O cenário simula um sistema interno utilizado por uma equipe para analisar dado
 - **Tipagem:**  
   Implementar uma camada de tipagem mais robusta, eliminando o uso de `any` e garantindo maior segurança e previsibilidade no desenvolvimento.
 
-- **Melhorar componente e SOLID:**  
+- **Melhorar componente e aplicar o SOLID:**  
   Refatorar e isolar ainda mais os componentes, facilitando a manutenção e a extensão do sistema para novos módulos. Ex: o componente filtro ficou muito poluído, poderiamos isolar algumas funções no utils por exemplo. 
 
 - **Ver a possibilidade do uso de filtros da própria tabela do MUI**  
