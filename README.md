@@ -42,7 +42,7 @@ O cenário simula um sistema interno utilizado por uma equipe para analisar dado
 - **Tabela Inteligente:**  
   Evoluir o componente de tabela para suportar diferentes formatações de células (ex: valores monetários, datas, booleanos), tornando-o ainda mais reutilizável para múltiplas telas e contextos do sistema.
 
-- **Tipagem Estrita:**  
+- **Tipagem:**  
   Implementar uma camada de tipagem mais robusta, eliminando o uso de `any` e garantindo maior segurança e previsibilidade no desenvolvimento.
 
 - **Componentização Avançada:**  
