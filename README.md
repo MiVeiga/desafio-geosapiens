@@ -45,8 +45,8 @@ O cenário simula um sistema interno utilizado por uma equipe para analisar dado
 - **Tipagem:**  
   Implementar uma camada de tipagem mais robusta, eliminando o uso de `any` e garantindo maior segurança e previsibilidade no desenvolvimento.
 
-- **Componentização Avançada:**  
-  Refatorar e isolar ainda mais os componentes, facilitando a manutenção e a extensão do sistema para novos módulos.
+- **Componentização Avançada e SOLID:**  
+  Refatorar e isolar ainda mais os componentes, facilitando a manutenção e a extensão do sistema para novos módulos.Ex: o componente filtro ficou muito poluido, poderiamos isolar algumas funções no utils por exemplo.
 
 - **Ver a possibilidade do uso de filtros da própria tabela do MUI**  
  Como os filtros são com operadores bem como no frontend, fazer o uso do DataGrid do MUI pode trazer mais facilidade e um código menos verboso.
